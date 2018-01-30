@@ -18,4 +18,4 @@ by machine Fryer, which take 450ms to make; and a coffee, made by machine Coffee
  Part-2
 
 The major difference in part 2 is to now use java.util.concurrent or the synchronized collections in the Collections class in
-java.util.collections.
+java.util.collections. Also used Non-Blocking Algorithm that makes use of CAS type Java operation.
